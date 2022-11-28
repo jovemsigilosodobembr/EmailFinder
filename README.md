@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 # Como Usar
 
-***Sempre da um ```cd EmailFinder```
+***Sempre da um***  ```cd EmailFinder```
 
 ```
 emailfinder -d www.google.com/
