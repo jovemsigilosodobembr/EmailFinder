@@ -14,6 +14,15 @@ O EmailFinder foi projetado para encontrar e-mails corporativos filtrados por me
   </a>
    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
     <img src="https://img.shields.io/badge/license-GNU-green.svg?style=square&logo=gnu">
+     
+     
+     # Clique na imagem para instalar o termux!   
+     
+ <p align="center">
+   <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk">
+    <img src="https://play-lh.googleusercontent.com/GojT7ENQ8axOV1PJhcZcMNlSgTD4w_F-N5rkEW_hnZmJbkn8p0A8ncYx-9y1iLlyUq0=w240-h480-rw">
+     
+     # pronto agora pode continuar
 
 
 # Disclaimer!
@@ -55,6 +64,4 @@ pip install -r requirements.txt
 emailfinder -d www.google.com/
 ```
 
- <p align="center">
-   <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk">
-    <img src="https://play-lh.googleusercontent.com/GojT7ENQ8axOV1PJhcZcMNlSgTD4w_F-N5rkEW_hnZmJbkn8p0A8ncYx-9y1iLlyUq0=w240-h480-rw">
+
