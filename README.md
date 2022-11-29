@@ -55,4 +55,7 @@ pip install -r requirements.txt
 emailfinder -d www.google.com/
 ```
 
+https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 
+   <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk">
+    <img src="https://play-lh.googleusercontent.com/GojT7ENQ8axOV1PJhcZcMNlSgTD4w_F-N5rkEW_hnZmJbkn8p0A8ncYx-9y1iLlyUq0=w240-h480-rw">
