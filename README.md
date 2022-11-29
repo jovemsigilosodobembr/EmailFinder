@@ -5,13 +5,15 @@ O EmailFinder foi projetado para encontrar e-mails corporativos filtrados por me
 <br/>
 
 <h1 align="center">
-  <b>Fontes desse progeto</b>
+  <b>Fontes Projeto</b>
   <br>
 </h1>
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.6+-blue.svg?style=flat-square&logo=python"> 
   </a>
+   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
+    <img src="https://img.shields.io/badge/license-GNU-green.svg?style=square&logo=gnu">
 
 
 # Disclaimer!
