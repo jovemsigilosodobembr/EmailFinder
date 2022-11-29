@@ -4,6 +4,16 @@ O EmailFinder foi projetado para encontrar e-mails corporativos filtrados por me
 </p>
 <br/>
 
+<h1 align="center">
+  <b>Fontes desse progeto</b>
+  <br>
+</h1>
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.6+-blue.svg?style=flat-square&logo=python"> 
+  </a>
+
+
 # Disclaimer!
 
 O software foi desenvolvido para verificar os e-mails de uma empresa encontrados nos mecanismos de busca. O autor não é responsável por qualquer uso ilegítimo.
