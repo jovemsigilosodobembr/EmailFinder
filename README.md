@@ -3,6 +3,15 @@
 O software foi desenvolvido para verificar os e-mails de uma empresa encontrados nos mecanismos de busca. O autor não é responsável por qualquer uso ilegítimo.
 
 
+# Mecanismos de busca
+
+* google: Ok (observe a política de cookies e Captcha!).
+* bing: OK.
+* baidu: OK (poucos pedidos).
+* bing: Caçando robôs muito rápido.
+
+
+
 # Instalação ```TERMUX```
 
 
