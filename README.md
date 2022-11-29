@@ -1,4 +1,7 @@
-# EmailFinder
+# Disclaimer!
+
+O software foi desenvolvido para verificar os e-mails de uma empresa encontrados nos mecanismos de busca. O autor não é responsável por qualquer uso ilegítimo.
+
 
 # Instalação ```TERMUX```
 
@@ -23,3 +26,5 @@ pip install -r requirements.txt
 ```
 emailfinder -d www.google.com/
 ```
+
+
