@@ -1,5 +1,0 @@
-requests
-prompt-toolkit
-urllib3
-pyfiglet
-beautifulsoup4
